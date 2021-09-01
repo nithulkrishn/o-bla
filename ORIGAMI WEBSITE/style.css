@@ -1,0 +1,16 @@
+h1 { color: whitesmoke;
+    margin-left: 550px;
+}
+
+.img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.menu{
+background-color: red;
+
+display: flex;
+justify-content: space-between;
+}
